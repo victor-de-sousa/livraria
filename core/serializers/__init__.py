@@ -1,3 +1,4 @@
 from .user import UserSerializer
 from .categoria import CategoriaSerializer
 from .ator import AtorSerializer
+from .livro import LivroSerializer
